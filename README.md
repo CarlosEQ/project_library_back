@@ -1,2 +1,2 @@
 # project_library_back
-Create a database with name library_db, then start the JAVA project.
+Create a database in mysql with name library_db, then start the JAVA project.
